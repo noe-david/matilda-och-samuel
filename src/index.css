@@ -2,15 +2,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Allison&display=swap");
 
 :root {
-  --green95: #eaf4f4;
-  --green50: #6b9080;
+  --color-text: #AE6E55;
 
   font-family: "Cormorant", serif;
   font-weight: 300;
   line-height: 1.4;
   font-weight: 400;
 
-  color: var(--green50);
+  color: var(--color-text);
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -30,7 +29,7 @@ body {
   min-width: 320px;
   height: 100dvh;
   max-height: 100dvh;
-  background-image: url("/meadow.jpg");
+  background-image: url("/cherry-blossom.jpeg");
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
